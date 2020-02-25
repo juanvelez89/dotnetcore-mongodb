@@ -1,0 +1,17 @@
+C:\TwoLab\Proyectos\Barton\microservice-product\Config.Product\bin\Release\netcoreapp2.2\Config.Product.deps.json
+C:\TwoLab\Proyectos\Barton\microservice-product\Config.Product\bin\Release\netcoreapp2.2\Config.Product.dll
+C:\TwoLab\Proyectos\Barton\microservice-product\Config.Product\bin\Release\netcoreapp2.2\Config.Product.pdb
+C:\TwoLab\Proyectos\Barton\microservice-product\Config.Product\bin\Release\netcoreapp2.2\Commons.Product.dll
+C:\TwoLab\Proyectos\Barton\microservice-product\Config.Product\bin\Release\netcoreapp2.2\Domain.Product.dll
+C:\TwoLab\Proyectos\Barton\microservice-product\Config.Product\bin\Release\netcoreapp2.2\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\TwoLab\Proyectos\Barton\microservice-product\Config.Product\bin\Release\netcoreapp2.2\Repository.Product.dll
+C:\TwoLab\Proyectos\Barton\microservice-product\Config.Product\bin\Release\netcoreapp2.2\Domain.Product.pdb
+C:\TwoLab\Proyectos\Barton\microservice-product\Config.Product\bin\Release\netcoreapp2.2\Repository.Product.pdb
+C:\TwoLab\Proyectos\Barton\microservice-product\Config.Product\bin\Release\netcoreapp2.2\Commons.Product.pdb
+C:\TwoLab\Proyectos\Barton\microservice-product\Config.Product\bin\Release\netcoreapp2.2\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\TwoLab\Proyectos\Barton\microservice-product\Config.Product\obj\Release\netcoreapp2.2\Config.Product.csprojAssemblyReference.cache
+C:\TwoLab\Proyectos\Barton\microservice-product\Config.Product\obj\Release\netcoreapp2.2\Config.Product.AssemblyInfoInputs.cache
+C:\TwoLab\Proyectos\Barton\microservice-product\Config.Product\obj\Release\netcoreapp2.2\Config.Product.AssemblyInfo.cs
+C:\TwoLab\Proyectos\Barton\microservice-product\Config.Product\obj\Release\netcoreapp2.2\Config.Product.csproj.CopyComplete
+C:\TwoLab\Proyectos\Barton\microservice-product\Config.Product\obj\Release\netcoreapp2.2\Config.Product.dll
+C:\TwoLab\Proyectos\Barton\microservice-product\Config.Product\obj\Release\netcoreapp2.2\Config.Product.pdb

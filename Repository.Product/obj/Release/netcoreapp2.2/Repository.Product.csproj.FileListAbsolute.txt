@@ -1,0 +1,11 @@
+C:\TwoLab\Proyectos\Barton\microservice-product\Repository.Product\bin\Release\netcoreapp2.2\Repository.Product.deps.json
+C:\TwoLab\Proyectos\Barton\microservice-product\Repository.Product\bin\Release\netcoreapp2.2\Repository.Product.dll
+C:\TwoLab\Proyectos\Barton\microservice-product\Repository.Product\bin\Release\netcoreapp2.2\Repository.Product.pdb
+C:\TwoLab\Proyectos\Barton\microservice-product\Repository.Product\bin\Release\netcoreapp2.2\Commons.Product.dll
+C:\TwoLab\Proyectos\Barton\microservice-product\Repository.Product\bin\Release\netcoreapp2.2\Commons.Product.pdb
+C:\TwoLab\Proyectos\Barton\microservice-product\Repository.Product\obj\Release\netcoreapp2.2\Repository.Product.csprojAssemblyReference.cache
+C:\TwoLab\Proyectos\Barton\microservice-product\Repository.Product\obj\Release\netcoreapp2.2\Repository.Product.AssemblyInfoInputs.cache
+C:\TwoLab\Proyectos\Barton\microservice-product\Repository.Product\obj\Release\netcoreapp2.2\Repository.Product.AssemblyInfo.cs
+C:\TwoLab\Proyectos\Barton\microservice-product\Repository.Product\obj\Release\netcoreapp2.2\Repository.Product.csproj.CopyComplete
+C:\TwoLab\Proyectos\Barton\microservice-product\Repository.Product\obj\Release\netcoreapp2.2\Repository.Product.dll
+C:\TwoLab\Proyectos\Barton\microservice-product\Repository.Product\obj\Release\netcoreapp2.2\Repository.Product.pdb

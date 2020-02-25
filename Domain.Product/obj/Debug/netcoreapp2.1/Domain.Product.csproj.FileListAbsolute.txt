@@ -1,0 +1,9 @@
+C:\TwoLab\Proyectos\Barton\microservice-product\Domain.Product\bin\Debug\netcoreapp2.1\Domain.Product.deps.json
+C:\TwoLab\Proyectos\Barton\microservice-product\Domain.Product\bin\Debug\netcoreapp2.1\Domain.Product.dll
+C:\TwoLab\Proyectos\Barton\microservice-product\Domain.Product\bin\Debug\netcoreapp2.1\Domain.Product.pdb
+C:\TwoLab\Proyectos\Barton\microservice-product\Domain.Product\obj\Debug\netcoreapp2.1\Domain.Product.csprojAssemblyReference.cache
+C:\TwoLab\Proyectos\Barton\microservice-product\Domain.Product\obj\Debug\netcoreapp2.1\Domain.Product.csproj.CoreCompileInputs.cache
+C:\TwoLab\Proyectos\Barton\microservice-product\Domain.Product\obj\Debug\netcoreapp2.1\Domain.Product.AssemblyInfoInputs.cache
+C:\TwoLab\Proyectos\Barton\microservice-product\Domain.Product\obj\Debug\netcoreapp2.1\Domain.Product.AssemblyInfo.cs
+C:\TwoLab\Proyectos\Barton\microservice-product\Domain.Product\obj\Debug\netcoreapp2.1\Domain.Product.dll
+C:\TwoLab\Proyectos\Barton\microservice-product\Domain.Product\obj\Debug\netcoreapp2.1\Domain.Product.pdb
